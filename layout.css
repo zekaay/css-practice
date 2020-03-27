@@ -1,0 +1,41 @@
+.flex-container > div {
+background-color: grey;
+ 
+  margin: 20px;
+  text-align: center;
+  line-height: 75px;
+  font-size: 30px;
+}
+.in{
+	display: flex;
+	
+	background-color: white;
+}
+.in > div {
+  background-color:blue;
+  margin: 30px;
+  padding: 10px;
+ width: 100%;
+  
+}
+#mo{
+	background-color: yellow;
+}
+#yell{
+	background-color: green;
+}
+#red{
+	background-color: red;
+}
+}
+#a{
+	background-color: grey;
+}
+}
+#b{
+	background-color: indigo;
+}
+}
+#c{
+	background-color: orange;
+}
